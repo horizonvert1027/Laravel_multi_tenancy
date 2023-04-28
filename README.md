@@ -12,9 +12,9 @@ While working on the Sass platform, I was confused and had many mistakes. Fortun
 
 ## Installation Guide
 
-1. `git clone https://github.com/digitalagency711/enotify.git`
+1. `git clone https://github.com/horizonvert1027/Laravel_multi_tenancy.git`
 
-2. `cd enotify`
+2. `cd Laravel_multi_tenancy`
 
 3. `composer install`
 
