@@ -49,4 +49,4 @@ If you are first with laravel multi-tanent, may have some missing understand abo
 
 But Don't worry, you are always around with kind peoples and we can help you.
 
-Contact to roman@directnorth.digital and we are welcome to you !
+
