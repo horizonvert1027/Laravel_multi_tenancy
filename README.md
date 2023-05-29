@@ -8,7 +8,7 @@
  
 ## About Laravel Multi-Tenant Function
 
-While working on the Sass platform, I was confused and had many mistakes. Fortunately, with the help of several highly skilled developers, I was able to solve this problem and am happy to post it here. Hope this helps developers in this field.
+While working on the Sass platform, I was confused and had many mistakes. Fortunately, with the help of several highly skilled developers, I was able to solve this problem and am happy to post it here. Hope this helps developers in this field. Thanks
  
 ## Installation Guide
 
