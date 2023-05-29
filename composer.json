@@ -1,7 +1,7 @@
 {
     "name": "laravel/laravel",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "The Laravel Sass Project",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
