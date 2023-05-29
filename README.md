@@ -5,11 +5,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-
+ 
 ## About Laravel Multi-Tenant Function
 
 While working on the Sass platform, I was confused and had many mistakes. Fortunately, with the help of several highly skilled developers, I was able to solve this problem and am happy to post it here. Hope this helps developers in this field.
-
+ 
 ## Installation Guide
 
 1. `git clone https://github.com/horizonvert1027/Laravel_multi_tenancy.git`
